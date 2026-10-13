@@ -2,7 +2,7 @@
 
 **Tiếng Việt** · [English](#english)
 
-Soi xem traffic HTTP/HTTPS của iPhone và Android ngay trên máy Mac, kiểu Proxyman, chạy trên nền [mitmproxy](https://mitmproxy.org).
+Soi xem traffic HTTP/HTTPS của iPhone và Android ngay trên máy Mac, kiểu Proxyman.
 
 Repo này chỉ chứa **bản cài và bản cập nhật** của Soi cho macOS.
 
@@ -27,7 +27,7 @@ Mỗi bản cập nhật đều được ký số, app chỉ cài bản có ch�
 
 ## English
 
-Soi shows the HTTP/HTTPS traffic of your iPhone and Android phones on your Mac, Proxyman-style, built on [mitmproxy](https://mitmproxy.org).
+Soi shows the HTTP/HTTPS traffic of your iPhone and Android phones on your Mac, Proxyman-style.
 
 This repository only hosts the **macOS installers and updates** for Soi.
 
